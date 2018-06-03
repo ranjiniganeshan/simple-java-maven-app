@@ -1,3 +1,4 @@
+@Library("jenkins-basic-shared-library-sample") _
 pipeline {
     agent {
         docker {
